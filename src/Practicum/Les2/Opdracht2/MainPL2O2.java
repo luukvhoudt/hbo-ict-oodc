@@ -1,4 +1,4 @@
-package Practicum.Les2;
+package Practicum.Les2.Opdracht2;
 
 public class MainPL2O2 {
     public static void main(String[] args) {

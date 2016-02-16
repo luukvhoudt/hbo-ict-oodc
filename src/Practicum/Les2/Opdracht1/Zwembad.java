@@ -1,4 +1,4 @@
-package Practicum.Les2;
+package Practicum.Les2.Opdracht1;
 
 /**
  * Created by luuk on 2/10/16.
