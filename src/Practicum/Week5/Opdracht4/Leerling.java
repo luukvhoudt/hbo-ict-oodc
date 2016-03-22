@@ -1,0 +1,22 @@
+package Practicum.Week5.Opdracht4;
+
+public class Leerling {
+    private String naam;
+    private double cijfer;
+
+    public Leerling(String iNaam) {
+        naam = iNaam;
+        cijfer = 0;
+    }
+
+    public String getNaam() {
+        return naam;
+    }
+
+    public double getCijfer() {
+        return cijfer;
+    }
+    public void setCijfer(double iCijfer) {
+        cijfer = iCijfer;
+    }
+}

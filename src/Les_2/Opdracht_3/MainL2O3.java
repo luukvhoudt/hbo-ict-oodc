@@ -4,13 +4,13 @@ package Les_2.Opdracht_3;
  *
  * @class Pilot
  *
- * - Constructer Les2: Pilot(String)
+ * - Constructer Week1: Pilot(String)
  *
- * - Attribuut Les2: String name
+ * - Attribuut Week1: String name
  * - Attribuut 2: double salary
  * - Attribuut 3: int hours
  *
- * - Methoden Les2: void setSalary(double newSalary)
+ * - Methoden Week1: void setSalary(double newSalary)
  * - Methoden 2: void addHours(int hoursWorked)
  * - Methoden 3: int getHours()
  * - Methoden 4: double getSalary()
